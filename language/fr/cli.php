@@ -1,8 +1,7 @@
 <?php
 /**
-*
-* This file is part of the french language pack for the phpBB Forum Software package.
-* This file is translated by caforum-phpBB <https://forums.caforum.fr>
+* This file is part of the French language pack for the
+* phpBB forum software.
 *
 * @copyright (c) phpBB Limited <https://www.phpbb.com>
 * @copyright (c) caforum-phpBB <https://forums.caforum.fr>
