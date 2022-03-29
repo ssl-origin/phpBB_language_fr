@@ -5,6 +5,7 @@
 * This file is translated by caforum-phpBB <https://forums.caforum.fr>
 *
 * @copyright (c) phpBB Limited <https://www.phpbb.com>
+* @copyright (c) caforum-phpBB <https://forums.caforum.fr>
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
 */
