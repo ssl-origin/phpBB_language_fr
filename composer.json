@@ -3,7 +3,7 @@
     "type": "phpbb-language",
     "description": "Pack de langue française pour phpBB 3.3",
     "version": "3.0.6",
-    "phpBB": "3.3.7",
+    "phpBB": "3.3.6",
     "license": "GPL-2.0-only",
     "authors": [
         {
