@@ -2,8 +2,8 @@
     "name": "caforum-phpBB/lang-fr",
     "type": "phpbb-language",
     "description": "Pack de langue française pour phpBB 3.3",
-    "version": "3.0.7",
-    "phpBB": "3.3.7",
+    "version": "3.0.8-RC1",
+    "phpBB": "3.3.8-RC1",
     "license": "GPL-2.0-only",
     "authors": [
         {
